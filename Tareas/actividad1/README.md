@@ -14,7 +14,7 @@ Ventajas: Alta eficiencia y rendimiento debido a la ejecución directa de servic
 
 Desventajas: Menor seguridad y estabilidad, ya que un fallo en un servicio puede afectar a todo el sistema.
 
-![](Aspose.Words.dd785ffb-41bf-4e13-b665-0cded733ba60.001.png)
+![](Aspose.Words.52b2e2b9-160c-4fb6-89d8-f05392ed2886.001.png)
 
 1. Microkernel:
 
@@ -24,7 +24,7 @@ Beneficios: Mayor seguridad y estabilidad, facilitando la gestión de fallos y l
 
 Inconvenientes: Potencialmente menos eficiente debido a la comunicación entre el kernel y los servicios en espacio de usuario.
 
-![](Aspose.Words.dd785ffb-41bf-4e13-b665-0cded733ba60.002.png)
+![](Aspose.Words.52b2e2b9-160c-4fb6-89d8-f05392ed2886.002.png)
 
 1. Híbrido (como Windows NT y XNU):
 
@@ -32,7 +32,7 @@ Inconvenientes: Potencialmente menos eficiente debido a la comunicación entre e
 
 Características: Mayor eficiencia que los microkernels manteniendo cierta modularidad y estabilidad.
 
-![](Aspose.Words.dd785ffb-41bf-4e13-b665-0cded733ba60.003.png)
+![](Aspose.Words.52b2e2b9-160c-4fb6-89d8-f05392ed2886.003.png)
 
 **User vs Kernel Mode**
 
