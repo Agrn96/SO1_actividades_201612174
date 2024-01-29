@@ -1,2 +1,4 @@
 # SO1_1S2024_201612174
-Tareas Sopes1 1S24
+Alberto Gabriel Reyes Ning
+201612174
+Actividades Sopes1 1S24
