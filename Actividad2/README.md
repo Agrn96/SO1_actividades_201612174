@@ -14,9 +14,9 @@ Tareas a realizar por el script:
 - Crear un log file en ***/tmp/<fecha>/saludos.log*** con la salida del mensaje anterior. Donde ***<fecha>*** corresponde a la fecha del día de ejecución del script
 - Crear un cronjob para que el script se ejecute cada 5 minutos
 
-![A computer screen shot of text
+Script:
 
-Description automatically generated](Aspose.Words.5a339224-e25a-498a-b114-d6c65d6f1e7d.001.png)Script 
+![](Aspose.Words.5a339224-e25a-498a-b114-d6c65d6f1e7d.001.png) 
 
 Cronjob:
 
@@ -28,6 +28,4 @@ Archivo Creado:
 
 Texto del archivo:
 
-![A black background with white text
-
-Description automatically generated](Aspose.Words.5a339224-e25a-498a-b114-d6c65d6f1e7d.004.png)
+![](Aspose.Words.5a339224-e25a-498a-b114-d6c65d6f1e7d.004.png)
